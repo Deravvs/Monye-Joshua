@@ -2,7 +2,7 @@
 ## ABOUT ME
 I am passionate and skilled data scientist who loves using tools like Python,SQl,Excel and PowerBI
 to analyse data and use insights from the analysis provide real world solutions.
-I also combine my economics knowledge with my data ascience skil to provide financial analysis and develop 
+I also combine my economics knowledge with my data science skills to provide financial analysis and develop predictive
 models on a macro and micro  economic level. Providng businesses with solid research insights to make profitable decisions.
 ## PROJECTS
 -Healthcare data analysis and recommendations.
