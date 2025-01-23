@@ -6,6 +6,7 @@ I also combine my economics knowledge with my data science skills to provide fin
 models on a macro and micro  economic level. Providng businesses with solid research insights to make profitable decisions.
 ## PROJECTS
 -Healthcare data analysis and recommendations.
+
 -Classifying of airplane reviews into positive and negative.
 
 -Predicting sales of a business based on advertising bugdet.
