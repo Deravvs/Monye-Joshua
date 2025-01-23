@@ -14,7 +14,6 @@ models on a macro and micro  economic level. Providng businesses with solid rese
 Bsc. in Economics from Babcock University Jan 2021 - Sept 2024.
 ## CERTIFICATIONS
  Professional in Data Science and analysis from Tech Studio Academy Aug 2024 - Nov 2024.
-
  ## CONTACT ME
  +2347087582735
  
